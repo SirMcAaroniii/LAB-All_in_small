@@ -1,5 +1,5 @@
 # LAB-All_in_small
-Déploiement de services via Ansible et Docker.
+Installation d'un lab à la maison via WSL et Docker.
 
 
 # Concept 
