@@ -1,4 +1,4 @@
-# LAB-Ansible_Docker
+# LAB-All_in_small
 Déploiement de services via Ansible et Docker.
 
 # Concept 
