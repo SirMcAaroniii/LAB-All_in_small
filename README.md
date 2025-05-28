@@ -10,6 +10,7 @@ Déployable via script powershell.
 # Fonctionnement 
 Téléchargement du script en fonction de la version, de l'OS et de ce qui est souhaité. 
 Je ne précise pas d'interpréteur de commande. A titre personnel, j'utilise VsCode, avec une synchronisation Github.
+Attention, le poste redémarre après l'installation Docker, penser à bien enregistrer vos fichiers!
 
 
 # Schéma d'infra 
